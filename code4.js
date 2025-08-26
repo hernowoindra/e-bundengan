@@ -76,7 +76,7 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 /* Reuse gdjs.MelodyCode.GDmelody_9595s1Objects1 */
-{gdjs.evtTools.sound.playSoundOnChannel(runtimeScene, "snd\\01_suara_bundengan\\Melody_s1_Mi(d).mp3", 5, false, 100, 1);
+{gdjs.evtTools.sound.playSoundOnChannel(runtimeScene, "Melody_s1_Mi(d).mp3", 5, false, 100, 1);
 }{for(var i = 0, len = gdjs.MelodyCode.GDmelody_9595s1Objects1.length ;i < len;++i) {
     gdjs.MelodyCode.GDmelody_9595s1Objects1[i].setAnimationName("getar");
 }
@@ -114,7 +114,7 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 /* Reuse gdjs.MelodyCode.GDmelody_9595s2Objects1 */
-{gdjs.evtTools.sound.playSoundOnChannel(runtimeScene, "snd\\01_suara_bundengan\\Melody_s2_Sol(f).mp3", 6, false, 100, 1);
+{gdjs.evtTools.sound.playSoundOnChannel(runtimeScene, "Melody_s2_Sol(f).mp3", 6, false, 100, 1);
 }{for(var i = 0, len = gdjs.MelodyCode.GDmelody_9595s2Objects1.length ;i < len;++i) {
     gdjs.MelodyCode.GDmelody_9595s2Objects1[i].setAnimationName("getar");
 }
@@ -152,7 +152,7 @@ isConditionTrue_0 = false;
 }
 if (isConditionTrue_0) {
 /* Reuse gdjs.MelodyCode.GDmelody_9595s3Objects1 */
-{gdjs.evtTools.sound.playSoundOnChannel(runtimeScene, "snd\\01_suara_bundengan\\Melody_s3_Do(a_kres).mp3", 7, false, 100, 1);
+{gdjs.evtTools.sound.playSoundOnChannel(runtimeScene, "Melody_s3_Do(a_kres).mp3", 7, false, 100, 1);
 }{for(var i = 0, len = gdjs.MelodyCode.GDmelody_9595s3Objects1.length ;i < len;++i) {
     gdjs.MelodyCode.GDmelody_9595s3Objects1[i].setAnimationName("getar");
 }

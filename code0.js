@@ -65,6 +65,20 @@ let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
 if (isConditionTrue_0) {
+{gdjs.evtTools.window.setGameResolutionSize(runtimeScene, 1080, 720);
+}{gdjs.evtTools.window.setWindowSize(runtimeScene, 1080, 720, true);
+}}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
+if (isConditionTrue_0) {
 gdjs.copyArray(runtimeScene.getObjects("awan1"), gdjs.MenuUtamaCode.GDawan1Objects1);
 {for(var i = 0, len = gdjs.MenuUtamaCode.GDawan1Objects1.length ;i < len;++i) {
     gdjs.MenuUtamaCode.GDawan1Objects1[i].setY(gdjs.MenuUtamaCode.GDawan1Objects1[i].getY() - (1));
